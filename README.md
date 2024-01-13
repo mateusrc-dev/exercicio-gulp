@@ -1,0 +1,3 @@
+# exercício do curso engenheiro front-end da EBAC
+
+## exercicio consiste em usar o gulp para criar tarefas automatizadas, como compilar arquivo scss para css, minificar arquivo js, comprimir imagens, tudo automaticamente e as tarefas executando em série pois é necessário esperar uma finalizar para inicar a outra...
