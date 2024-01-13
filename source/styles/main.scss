@@ -1,0 +1,14 @@
+@use 'variaveis';
+
+body {
+    background-color: variaveis.$corPrincipal;
+    .container {
+        background-color: variaveis.$corSecundaria;
+        h1 {
+        color: variaveis.$corDaFonte;
+        }
+        img {
+            max-width: 300px;
+        }
+    }
+}
